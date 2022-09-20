@@ -1,0 +1,15 @@
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/bin/Debug/net6.0/seminar2
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/bin/Debug/net6.0/seminar2.deps.json
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/bin/Debug/net6.0/seminar2.runtimeconfig.json
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/bin/Debug/net6.0/seminar2.dll
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/bin/Debug/net6.0/seminar2.pdb
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/seminar2.csproj.AssemblyReference.cache
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/seminar2.AssemblyInfoInputs.cache
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/seminar2.AssemblyInfo.cs
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/seminar2.csproj.CoreCompileInputs.cache
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/seminar2.dll
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/refint/seminar2.dll
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/seminar2.pdb
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/seminar2.genruntimeconfig.cache
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/seminar2/obj/Debug/net6.0/ref/seminar2.dll
