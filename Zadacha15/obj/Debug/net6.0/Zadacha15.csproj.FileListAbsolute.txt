@@ -1,0 +1,15 @@
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/bin/Debug/net6.0/Zadacha15
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/bin/Debug/net6.0/Zadacha15.deps.json
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/bin/Debug/net6.0/Zadacha15.runtimeconfig.json
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/bin/Debug/net6.0/Zadacha15.dll
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/bin/Debug/net6.0/Zadacha15.pdb
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/Zadacha15.csproj.AssemblyReference.cache
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/Zadacha15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/Zadacha15.AssemblyInfoInputs.cache
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/Zadacha15.AssemblyInfo.cs
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/Zadacha15.csproj.CoreCompileInputs.cache
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/Zadacha15.dll
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/refint/Zadacha15.dll
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/Zadacha15.pdb
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/Zadacha15.genruntimeconfig.cache
+/Users/denisveselkov/Desktop/GIT Geekbrains/C#/Zadacha15/obj/Debug/net6.0/ref/Zadacha15.dll
